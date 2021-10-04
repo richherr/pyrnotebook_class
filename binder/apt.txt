@@ -1,0 +1,14 @@
+libhdf5-serial-dev
+libnetcdf-dev
+libstdc++6
+libstdc++-8-dev
+gcc-6
+texlive-full
+texlive-bibtex-extra
+texlive-fonts-recommended
+texlive-fonts-extra
+texlive-science
+tex-common
+fonts-lmodern
+locate
+ca-certificates
