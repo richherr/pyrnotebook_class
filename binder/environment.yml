@@ -5,7 +5,8 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - r-base=3.6
+  - conda-forge::r-essentials=3.6
+  - conda-forge::libblas=3.8.0=14_mkl
   - r-rmpfr
   - r-tensorflow
   - r-keras
