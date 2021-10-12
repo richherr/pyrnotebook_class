@@ -7,6 +7,7 @@ channels:
 dependencies:
   - r-essentials
   - r-base
+  - lapack
   - blas
   - r-rmpfr
   - r-tensorflow
