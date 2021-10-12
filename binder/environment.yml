@@ -5,7 +5,7 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - r-essentials
+  - r-essentials=4.1
   - blas
   - r-rmpfr
   - r-tensorflow
