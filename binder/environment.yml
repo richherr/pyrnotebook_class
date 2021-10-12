@@ -6,6 +6,7 @@ channels:
   - pypi
 dependencies:
   - r-base=3.6
+  - r-rmpfr
   - r-tensorflow
   - r-keras
   - r-boot
