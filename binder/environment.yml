@@ -588,3 +588,4 @@ dependencies:
   - mkl-service
   - pymc3
   - pystan
+  - sympy
