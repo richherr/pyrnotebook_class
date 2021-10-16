@@ -589,3 +589,5 @@ dependencies:
   - pymc3
   - pystan
   - sympy
+  - pip:
+    - Edward
