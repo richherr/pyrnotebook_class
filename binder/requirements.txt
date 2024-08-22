@@ -1,16 +1,16 @@
-Edward
-absl-py         
-alabaster         
-albumentations         
-altair         
-argon2-cffi         
-asgiref          
-astor          
-astropy            
-astunparse          
-async-generator               
-atari-py                      
-atomicwrites                  
+# Edward
+# absl-py         
+# alabaster         
+# albumentations         
+# altair         
+# argon2-cffi         
+# asgiref          
+# astor          
+# astropy            
+# astunparse          
+# async-generator               
+# atari-py                      
+# atomicwrites                  
 attrs                         
 audioread                     
 autograd                      
@@ -93,25 +93,25 @@ geographiclib
 geopy                         
 gin-config                    
 glob2                         
-google                        
-google-api-core               
-google-api-python-client      
-google-auth                   
-google-auth-httplib2          
-google-auth-oauthlib          
-google-cloud-bigquery         
-google-cloud-bigquery-storage 
-google-cloud-core             
-google-cloud-datastore        
-google-cloud-firestore        
-google-cloud-language         
-google-cloud-storage          
-google-cloud-translate        
-google-colab                  
-google-pasta                  
-google-resumable-media        
-googleapis-common-protos      
-googledrivedownloader         
+# google                        
+#  google-api-core               
+# google-api-python-client      
+# google-auth                   
+# google-auth-httplib2          
+# google-auth-oauthlib          
+# google-cloud-bigquery         
+# google-cloud-bigquery-storage 
+# google-cloud-core             
+# google-cloud-datastore        
+# google-cloud-firestore        
+# google-cloud-language         
+# google-cloud-storage          
+# google-cloud-translate        
+# google-colab                  
+# google-pasta                  
+# google-resumable-media        
+# googleapis-common-protos      
+# googledrivedownloader         
 graphviz                      
 grpcio                        
 gspread                       
