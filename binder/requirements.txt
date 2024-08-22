@@ -189,7 +189,6 @@ msgpack
 multiprocess                  
 multitasking                  
 murmurhash                    
-music21                       
 natsort                       
 nbclient                      
 okgrade                       
@@ -254,10 +253,7 @@ PySocks
 pystan                        
 pytest                        
 python-apt                    
-python-chess                  
 python-dateutil               
-python-louvain                
-python-slugify                
 python-utils                  
 pytz                          
 pyviz-comms                   
