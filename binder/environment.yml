@@ -5,6 +5,7 @@ channels:
   - pytorch
   - pypi
 dependencies:
+  - gcc-6
   - r-essentials
   - r-base
   - lapack
