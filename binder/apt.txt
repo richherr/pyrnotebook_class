@@ -8,12 +8,12 @@ libproj-dev
 libgeos++-dev
 gdal-bin
 # gcc-6
-texlive-full
-texlive-bibtex-extra
-texlive-fonts-recommended
-texlive-fonts-extra
-texlive-science
-tex-common
+# texlive-full
+# texlive-bibtex-extra
+# texlive-fonts-recommended
+# texlive-fonts-extra
+# texlive-science
+# tex-common
 fonts-lmodern
 locate
 ca-certificates
