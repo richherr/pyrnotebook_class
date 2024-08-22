@@ -4,9 +4,7 @@ channels:
   - conda 
   - pytorch
   - pypi
-  - omgarcia
 dependencies:
-  - gcc-6
   - r-essentials
   - r-base
   - lapack
